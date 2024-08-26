@@ -25,6 +25,12 @@
     "name": "Dashboard",
     "url": "https://hysteria.tsar.app/"
   },
+  "tabs": [
+    {
+      "name": "API Reference",
+      "url": "api-reference"
+    }
+  ],
   "navigation": [
     {
       "group": "Important",
